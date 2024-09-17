@@ -25,4 +25,7 @@ export const defaultOptions = {
   linkedin: {
     cookieName: 'gatsby-gdpr-linkedin'
   }
+  hubspot: {
+    cookieName: 'gatsby-gdpr-hubspot'
+  }
 }
